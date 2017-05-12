@@ -35,4 +35,4 @@ The metric used on the contest was prediction accuracy.
 OTHER IDEAS
 ----------------------------------
 
-So far most the work in improving prediction scores has been by utilizing different classifiers. There is potential for large increases in prediction accuracy by teasing out relationships between various fields in the data set. For example, likelihood of survival is affected by whether or not the passenger had family on board, and if the family members also survived [Do Families Survive Together?](https://www.kaggle.com/philippsp/increase-your-model-accuracy-with-this-feature).
+So far most the work in improving prediction scores has been by utilizing different classifiers. There is potential for large increases in prediction accuracy by teasing out relationships between various fields in the data set. For example, [Do Families Survive Together?](https://www.kaggle.com/philippsp/increase-your-model-accuracy-with-this-feature) That is, is the likelihood of survival affected by whether or not the passenger had family on board, and if the family members also survived? 
